@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\Android_STUDIO\studio\gradle\gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/baidupaysdk" />
+            <option value="$PROJECT_DIR$/gloablelibrary" />
+            <option value="$PROJECT_DIR$/paysdk" />
+            <option value="$PROJECT_DIR$/sharesdk" />
+            <option value="$PROJECT_DIR$/smssdk" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/baidupaysdk" />
+            <option value="$PROJECT_DIR$/gloablelibrary" />
+            <option value="$PROJECT_DIR$/paysdk" />
+            <option value="$PROJECT_DIR$/sharesdk" />
+            <option value="$PROJECT_DIR$/smssdk" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

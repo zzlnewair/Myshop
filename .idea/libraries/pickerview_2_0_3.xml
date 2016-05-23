@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="pickerview-2.0.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.bigkoo/pickerview/2.0.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.bigkoo/pickerview/2.0.3/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bigkoo/pickerview/2.0.3/320480a50eadbd912a28c75477ad976d6c558f07/pickerview-2.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

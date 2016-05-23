@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="NineLayout-1.0.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.w4lle.library/NineLayout/1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.w4lle.library/NineLayout/1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.w4lle.library/NineLayout/1.0.0/e56a0e4513a70209648a0dd57afd15cebde7d558/NineLayout-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
